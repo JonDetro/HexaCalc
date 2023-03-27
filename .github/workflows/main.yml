@@ -1,0 +1,2 @@
+- name: Build iOSs Action
+  uses: tmc1245/ios-build-action@master
